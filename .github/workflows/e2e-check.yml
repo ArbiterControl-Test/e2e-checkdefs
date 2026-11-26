@@ -8,3 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "synthetic check for the Arbiter live suite"
+# e2e 20261126T035742Z-01453aab-cf005c133c0d: W7 changes how its own check runs
